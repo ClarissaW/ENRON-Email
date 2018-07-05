@@ -1,0 +1,10 @@
+*.pyc
+test_all_documents.zip
+.D*
+._*
+maildir/*
+users/
+processed/
+enron_mail.tgz
+vectors/
+spark-warehouse/
